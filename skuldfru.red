@@ -2,6 +2,7 @@
 ;name skuldfru
 ;author Chris Browne
 ;strategy one process hides, the other creates traps
+;assert CORESIZE>0
 SPL 4
 ; hider part
 JMP 2
